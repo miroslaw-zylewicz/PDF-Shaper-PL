@@ -1,0 +1,819 @@
+; PDF Shaper Polish v15.3
+; Prepared by antbil - 28.03.2021
+; Translation updated by Miros≥aw Øylewicz - 20.08.2025
+
+[Language]
+Codepage=1250
+
+[v15.0]
+ConvertPDF=Konwertuj do PDF
+Images=Obrazy
+TXT=Pliki TXT
+DOC=Pliki DOC
+PDF=Pliki PDF
+Combine=Po≥πcz wszystkie obrazy w jeden plik PDF
+
+[v14.8]
+CurrentDate=Aktualna data
+PageNumber=Numer strony
+TotalPages=Ca≥kowita liczba stron
+
+[v14.7]
+Language=JÍzyk
+
+[v14.6]
+DeleteFirst=UsuÒ pierwszπ stronÍ
+DeleteLast=UsuÒ ostatniπ stronÍ
+SkipFirst=PomiÒ pierwszy dokument
+FreeLimit=Wersja bezp≥atna pozwala na przetworzenie tylko 5 plikÛw.
+Upgrade=Zaktualizuj do wersji Premium lub Ultimate, aby usunπÊ to ograniczenie.
+
+[v14.5]
+AddPDF=Dodaj PDF
+AddDoc=Dodaj DOC
+
+[v14.0]
+AddText=Dodaj pliki tekstowe
+TXTtoPDF=TXT do PDF
+SelectDir=Wybierz
+FindPrev=Znajdü poprzedni
+Scroll=P≥ynne przewijanie
+Nativetext=Uøyj tekstu natywnego
+Annotations=Renderuj adnotacje
+Memory=Za≥aduj ca≥y plik do pamiÍci
+Bytes=bajtÛw
+SaveAll=Zapisz wszystko
+DeleteAll=UsuÒ wszystko
+Attachments=Za≥πczniki
+
+[v13.8]
+LicenseExpired=Licencja wygas≥a
+OldKey=TwÛj klucz licencyjny zosta≥ wydany ponad rok temu. Uaktualnij licencjÍ na kolejny rok lub wrÛÊ do poprzedniej wersji.
+ContinueTrial=Kontynuuj bezp≥atny okres prÛbny
+TrialExpired=TwÛj bezp≥atny okres prÛbny wygas≥. Kup licencjÍ, aby mÛc dalej korzystaÊ z programu lub odinstaluj go ze swojego komputera.
+Close=Zamknij program
+TrialMessage=Ten program moøesz wyprÛbowaÊ bezp≥atnie. Masz 10 dni na ocenÍ produktu przed dokonaniem zakupu.
+EnterKey=Wprowadü klucz licencyjny
+
+[v13.1]
+ProOptions=Opcje dostÍpne w wersjach Professional oraz Premium:
+Word=Konwerter Word
+SecurityTools=NarzÍdzia ochrony
+WatermarkTools=NarzÍdzia znaku wodnego
+NoShow=Nie pokazuj
+XMP=UsuÒ XMP
+
+[v13.0]
+Length=Nieprawid≥owa d≥ugoúÊ klucza.
+NotValid=Klucz licencyjny jest nieprawid≥owy lub dostÍp do rejestru jest zabroniony.
+TryAgain=Uruchom program jako administrator i sprÛbuj ponownie.
+EncLevel=Poziom szyfrowania
+SecMethod=Metoda ochrony
+Signature=Podpis
+Server=Uøyj serwera znacznika czasowego
+NewKey=Wprowadü nowy klucz licencyjny
+
+[v12.8]
+Exit=Zarejestruj program lub naciúnij przycisk "Wyjdü", aby go zamknπÊ.
+Run=Naciúnij przycisk "Kontynuuj", aby uruchomiÊ program.
+
+[v12.7]
+ClickFiles=Kliknij tutaj, aby dodaÊ pliki
+TrialLimit=Wersja prÛbna pozwala na zarzπdzanie tylko 5 plikami.
+Purchase=Kup licencjÍ, aby usunπÊ to ograniczenie.
+
+[v12.6]
+AllowAll=ZezwÛl na wszystko
+DenyAll=OdrzuÊ wszystko
+Restart=Uruchom ponownie program.
+
+[v12.5]
+Lowest=Najniøszy
+Low=Niski 
+Medium=åredni
+High=Wysoki
+Highest=Najwyøszy
+TOC=Skorzystaj z oryginalnego spisu treúci
+DirectEncrypt=Szyfruj pliki bezpoúrednio na dysku
+EncryptNote1=Uøyj tej opcji, aby zaszyfrowaÊ pliki bezpoúrednio na dysku, bez ≥adowania ich do pamiÍci.
+EncryptNote2=Zalecane dla dokumentÛw o rozmiarze ponad 100 MB lub ponad 1000 stron.
+MergeNote=Uøyj tej opcji, aby scaliÊ pliki bezpoúrednio na dysku, bez ≥adowania ich do pamiÍci.
+ImageSize=Rozmiar obrazu:
+
+[v12.2]
+Bookmarks=Zak≥adki
+
+[v12.1]
+SaveImage=Zapisz stronÍ jako obraz
+ExtractText=WyodrÍbnij tekst ze strony
+ImageSaved=Obraz zosta≥ pomyúlnie zapisany.
+NoImage=Nie uda≥o siÍ zapisaÊ obrazu.
+
+[v12.0]
+Rights=Prawa do uøytkowania
+AddTags=Dodaj tagi:
+CurrentYear=Bieøπcy rok
+CurrentMonth=Bieøπcy miesiπc
+CurrentDay=Bieøπcy dzieÒ
+CurrentTime=Aktualny czas
+DirName=Nazwa katalogu
+NameOnly=Tylko nazwa pliku
+FileExt=Rozszerzenie pliku
+TotalFiles=Ca≥kowita liczba plikÛw na liúcie
+
+[v11.6]
+ScanPDF=Skanuj PDF
+LoadMerge=Za≥aduj i po≥πcz pliki
+DirectMerge=Scal pliki bezpoúrednio na dysku
+Output=Wyjúcie
+Specify=Okreúl úcieøkÍ wyjúcia
+Use=Uøyj nastÍpujπcej úcieøki
+Overwrite=Zastπp pliki bez pytania
+Overwritten=Nadpisane
+NoDir=åcieøka wyjúcia nie moøe pozostaÊ nieokreúlona.
+
+[v11.4]
+Upgrade=Uaktualnij
+Update=Aktualizacja
+DontCheck=Nie sprawdzaj aktualizacji
+Available=DostÍpna jest aktualizacja.
+Download=Czy chcesz odwiedziÊ stronÍ g≥Ûwnπ, aby pobraÊ nowπ wersjÍ?
+Benefits=Zaktualizuj edycjÍ bezp≥atnπ, aby uzyskaÊ nastÍpujπce korzyúci:
+64bit=64-bitowa wersja programu
+AllTools=DostÍpne wszystkie narzÍdzia
+Command=Obs≥uga wiersza poleceÒ
+Use=Dozwolony uøytek komercyjny
+
+[v11.3]
+RemoveElements=UsuÒ elementy
+PDFtoImagePDF=PDF do obrazu PDF
+
+[v11.2]
+IgnoreDPI=Ignoruj wartoúÊ DPI
+DarkTheme=Ciemny motyw
+HiResPrint=Drukuj w wysokiej rozdzielczoúci
+ProOption=Ta opcja dostÍpna jest w wersjach Professional oraz Premium!
+FreeTrial=Czy chcesz pobraÊ i wyprÛbowaÊ bezp≥atnπ wersjÍ prÛbnπ?
+
+[v11.0]
+Free=Wersja bezp≥atna nie moøe byÊ uøywana w organizacjach ani do celÛw komercyjnych.
+Upgrade=Zaktualizuj do wersji Professional
+NoAction=Okreúl dzia≥anie, aby kontynuowaÊ.
+Usage=UsuÒ prawa uøytkowania
+Open=UsuÒ otwarte dzia≥anie
+RemoveMetadata=UsuÒ metadane
+Fields=UsuÒ pola formularza
+Entries=UsuÒ wpisy w polach formularza
+Cleanup=WyczyúÊ
+
+[v10.3]
+DeleteContent=UsuÒ zawartoúÊ
+Str1=Ta opcja dostÍpna jest tylko w wersji Professional!
+Str2=Ta opcja dostÍpna jest w wersjach Professional oraz Premium!
+Str3=Czy chcesz pobraÊ i wyprÛbowaÊ bezp≥atnπ wersjÍ prÛbnπ?
+Str4=Wersja bezp≥atna przeznaczona jest wy≥πcznie do uøytku osobistego!
+Str5=Ta wersja nie jest przeznaczona do uøytku komercyjnego!
+Str6=Aby korzystaÊ z tego oprogramowania w organizacjach lub do uøytku
+Str7=komercyjnego, naleøy zakupiÊ licencjÍ Professional Edition.
+
+[v10.0]
+Classic=Klasyczne ikony
+Sidebar=Pasek boczny
+DisplaySidebar=Pokaø pasek boczny
+DisplayMenubar=Pokaø pasek menu
+LeftAlign=WyrÛwnaj do lewej
+Rename=ZmieÒ nazwÍ
+FileName=Nazwa pliku:
+Prefix=Dodaj nazwÍ folderu jako przedrostek
+Extension=Litery rozszerzenia:
+NoChange=Bez zmian
+Lowercase=Ma≥e litery (*.pdf)
+Uppercase=Duøe litery (*.PDF)
+
+[v9.6]
+DirectMerge=Scalanie bezpoúrednie (zalecane dla plikÛw powyøej 100 MB)
+DisplayToolbar=Pokaø pasek narzÍdzi
+DisplayCaptions=Pokaø napisy
+VerticalHeaders=Nag≥Ûwki pionowe
+NoCopy=Nie twÛrz nielegalnych kopii tego programu!
+Actual=Aktualny rozmiar
+Zoom=PowiÍksz stronÍ
+Fit=Dopasuj szerokoúÊ
+Printing=Drukowanie
+Changing=Zmiana dokumentu
+Page=WyodrÍbnianie stron
+Commenting=Komentowanie
+Form=Wype≥nianie pÛl formularza
+Content=UdostÍpnianie treúci
+Document=Sk≥adanie dokumentu
+Yes=Tak
+No=Nie
+Allowed=Dozwolone
+Notallowed=Niedozwolone
+Unknown=Nieznane
+None=Øaden
+
+[v9.5]
+Created=Utworzony
+Modified=Zmodyfikowany
+Application=Aplikacja
+ProcessOdd=PrzetwÛrz nieparzyste strony
+ProcessEven=PrzetwÛrz parzyste strony
+
+[v9.4]
+DeleteAnnotations=UsuÒ adnotacje
+DeleteBookmarks=UsuÒ zak≥adki
+Captions=Pokaø opisy przyciskÛw
+ExtractFirst=WyodrÍbnij pierwszπ stronÍ
+ExtractLast=WyodrÍbnij ostatniπ stronÍ
+ExtractSelected=WyodrÍbnij wybrane strony
+ExtractOdd=WyodrÍbnij nieparzyste strony
+ExtractEven=WyodrÍbnij parzyste strony
+DeleteOdd=UsuÒ nieparzyste strony
+DeleteEven=UsuÒ parzyste strony
+
+[v9.2]
+PDFtoDOC=PDF do DOC
+Graphics=PrzetwÛrz grafikÍ
+Tables=PrzetwÛrz tabele
+Proceed=Kontynuuj
+
+[v9.0]
+Add=Dodaj lub przeciπgnij tutaj pliki.
+Compiled=Skompilowano
+SaveList=Zapisz listÍ
+OpenList=OtwÛrz listÍ
+AddFolder=Dodaj folder
+AddFolderTip=Dodaj folder z dokumentami
+Folder=Folder
+Searching=Szukaj
+SearchingFor=Wyszukiwanie dokumentÛw:
+Found=Znaleziono
+SelectFolder=Wybierz folder zawierajπcy dokumenty PDF.
+Action=Dzia≥anie
+NoIcons=Brak ikon
+SmallIcons=Ma≥e ikony
+LargeIcons=Duøe ikony
+Password=Has≥o
+PasswordEnter=Wprowadü has≥o:
+PasswordAll=Zastosuj has≥o do wszystkich plikÛw
+ExtractFiles=WyodrÍbnij pliki
+401=Nie moøna otworzyÊ pliku wejúciowego.
+404=Nieprawid≥owe has≥o.
+405=Dokument nie jest zaszyfrowany.
+406=Dokument jest juø zaszyfrowany.
+407=Niew≥aúciwa si≥a szyfrowania.
+408=Niew≥aúciwe uprawnienia.
+409=Nieprawid≥owa struktura pliku, plik jest uszkodzony.
+InsertPages=Wstaw 
+Rotate=ObrÛÊ
+EnumeratePages=Ponumeruj strony
+FirstPage=PrzetwÛrz pierwszπ stronÍ
+LastPage=PrzetwÛrz ostatniπ stronÍ
+Abort=Przerwij
+Processing=Przetwarzanie
+ProcessingFile=Przetwarzanie pliku
+PageNum=Dodaj numer strony
+NoText=W dokumencie nie ma obiektÛw tekstowych.
+WithErrors=Proces zakoÒczony, zawiera b≥Ídy
+OpenPwd=Has≥o do dokumentu: Tak
+PermissionPwd=Has≥o uprawnieÒ: Tak
+DocChanges=Zmiany w dokumencie: Niedozwolone
+ContChanges=Zmiany treúci: Niedozwolone
+NoAccess=Odmowa dostÍpu
+Remember=Uøyj bieøπcych ustawieÒ jako domyúlnych
+Users=Uøytkownik
+Skipped=PomiÒ
+ImageFormat=Format obrazu:
+DPI=RozdzielczoúÊ obrazu:
+AddSignature=Dodaj podpis
+EditPermissions=Edytuj uprawnienia
+EditMetadata=Edytuj metadane
+Modify=Modyfikuj
+PDFtoPDF=PDF do PDF
+OriginalData=Uøyj oryginalnych metadanych
+AddData=Dodaj informacje o dokumencie
+UpdateData=Zaktualizuj informacje o dokumencie
+RemoveData=UsuÒ informacje o dokumencie
+NoData=Nie uwzglÍdniaj metadanych
+Bookmarks=Do≥πcz zak≥adki
+Hyperlinks=UwzglÍdnij hiper≥πcza
+Fonts=Uøyj czcionki
+Compress=Skompresuj tekst
+Placement=Dok≥adne umieszczenie tekstu
+Quality=JakoúÊ obrazu:
+SelectPDF=Wybierz dokument PDF.
+NoOCR=Modu≥ OCR nie zosta≥ znaleziony.
+ExtractFiles=WyodrÍbnij pliki
+Combine=Po≥πcz strony w jeden dokument
+SeparatePage=Zapisz kaødπ stronÍ jako oddzielny plik
+DeleteImages=UsuÒ obrazy
+MovePages=Przenieú 
+DelFirst=UsuÒ pierwszπ stronÍ
+DelLast=UsuÒ ostatniπ stronÍ
+Encryption=Szyfrowanie
+SetPassword=Ustaw has≥o
+OpenMismatch=Has≥a do dokumentu nie sπ zgodne.
+PermissionsMismatch=Has≥a do uprawnieÒ nie sπ zgodne.
+SpecifyPwd=Podaj has≥o lub zdefiniuj uprawnienia do dokumentu.
+DifPwds=Has≥a do dokumentu i do uprawnieÒ muszπ byÊ rÛøne.
+SpecifyPermissions=Okreúl has≥o uprawnieÒ.
+DocPwd=Has≥o do dokumentu
+PermPwd=Has≥o do uprawnieÒ
+ConfrimPwd=Potwierdü has≥o:
+SetPermissions=Ustaw uprawnienia dla dokumentu
+NoEncrypt=Dokument nie jest zaszyfrowany.
+AddSign=Podpis zostanie dodany 
+Reason=Przyczyna
+Location=Lokalizacja
+Contact=Informacje kontaktowe
+Field=Nazwa pola
+NoPFX=Nie znaleziono pliku PFX. Sprawdü úcieøkÍ dostÍpu do pliku.
+NoImage=Nie znaleziono pliku obrazu. Sprawdü úcieøkÍ dostÍpu do pliku.
+BlankField=Nazwa pola podpisu nie moøe byÊ pusta.
+SameField=Nazwy pÛl podpisu nie mogπ byÊ identyczne.
+InsertImage=Wstaw obraz
+InsertText=Wstaw tekst
+RunAsAdmin=SprÛbuj uruchomiÊ program jako administrator.
+PageNum=Numeracja stron
+SeparateImage=Zapisz kaødy obraz jako oddzielny plik
+Less=Liczba stron nie moøe byÊ mniejsza niø 1.
+Less2=Numer strony nie moøe byÊ mniejszy niø 1.
+SpecifyPages=Okreúl liczbÍ stron.
+SpecifyNum=Podaj numer strony.
+NoPDF=Nie znaleziono pliku PDF. Sprawdü úcieøkÍ dostÍpu do pliku.
+LoadingPages=Wczytywanie stron z pliku ürÛd≥owego
+PageOut=Numer strony musi znajdowaÊ siÍ poza wybranym zakresem stron.
+PFXPath=åcieøka dostÍpu do pliku PFX:
+CertPwd=Has≥o certyfikatu:
+SignTwo=Dodaj dodatkowy podpis
+NumFiles=Podziel dokument wed≥ug liczby plikÛw
+NumPages=Podziel dokument wed≥ug liczby stron
+NumFilesTip=Liczba plikÛw:
+NumPagesTip=Liczba stron:
+Direction=Kierunek:
+Units=Jednostki miary:
+MarginLeft=Lewy margines
+MarginTop=GÛrny margines
+MarginBottom=Dolny margines
+MarginRight=Prawy margines
+PathSrc=åcieøka dostÍpu do dokumentu ürÛd≥owego:
+PageNumber=Numer strony:
+SpecMove=Okreúl strony do przeniesienia:
+Insert1=Wstaw strony po pierwszej stronie
+Insert2=Wstaw strony po ostatniej stronie
+Insert3=Wstaw strony po wybranej stronie
+Insert4=Wstaw strony przed pierwszπ stronπ
+Insert5=Wstaw strony przed ostatniπ stronπ
+Insert6=Wstaw strony przed wybranπ stronπ
+Put1=UmieúÊ strony po pierwszej stronie
+Put2=UmieúÊ strony po ostatniej stronie
+Put3=UmieúÊ strony po wybranej stronie
+Put4=UmieúÊ strony przed wybranπ stronπ
+Put5=UmieúÊ strony przed ostatniπ stronπ
+Put6=UmieúÊ strony przed wybranπ stronπ
+ImagePos=Pozycja obrazu:
+TextPos=Pozycja tekstu:
+ImagePath=åcieøka dostÍpu do pliku obrazu:
+PageOnly=Dodaj tylko numer strony
+TotalPages=Dodaj numer strony oraz ca≥kowitπ liczbÍ stron
+Points=Punkty (pt)
+Degree=Stopni (∞)
+Properties=W≥aúciwoúci
+
+[v8.4]
+Shell=Zintegruj z menu kontekstowym
+Percent=Procent
+
+[v8.3]
+Reason=Przyczyna:
+Location=Lokalizacja
+Contact=Dane kontaktowe:
+Signature=Nazwa podpisu:
+NoName=Okreúl nazwÍ podpisu.
+OCR=Uøyj OCR
+
+[v8.2]
+Numbers=Numeracja
+AddImage=Wstaw zdjÍcia
+AddText=Wstaw tekst
+AddNum=Dodaj numery stron
+SelectType=Wybierz znak wodny.
+NoText=Wprowadü tekst.
+Codepage=Strona kodowa
+PageOnly=Tylko numer strony
+Total=Numer strony oraz ca≥kowita liczba stron
+MarX=Margines X
+MarY=Margines Y
+
+[v8.1]
+Length=D≥ugoúÊ:
+Lines=Linie:
+Form=Wype≥nij formularz
+Bookmarks=Zak≥adki
+Grayscale=Wydruk w skali szaroúci
+AText=Tekst z wyg≥adzaniem
+AImages=Obrazy z wyg≥adzaniem
+APaths=åcieøki z wyg≥adzaniem
+
+[v8.0]
+Protect=ChroÒ
+ProtectHint=ChroÒ zawartoúÊ pliku PDF przed wyodrÍbnieniem
+Icons=Ikony
+DelSelected=UsuÒ wybrane strony
+DelLast=UsuÒ ostatnie strony
+Appending=Do≥πcz
+Checking=Sprawdü
+NoFile=Brak pliku
+Direct=Uøyj bezpoúredniego dostÍpu
+Append=Za≥aduj i do≥πcz wszystkie strony
+AppendSelected=Za≥aduj i do≥πcz wybrane strony
+NoText=Nie moøna wyodrÍbniÊ tekstu.
+Page=Strona
+
+[v7.4]
+Advance=Kontynuuj
+Progress=PostÍp:
+Processed=Przetwarzanie plikÛw zakoÒczone
+Abort=Proces przerwany przez uøytkownika
+Success=Proces zakoÒczony pomyúlnie
+Fail=Proces nie powiÛd≥ siÍ
+
+[v7.3]
+Categories=Kategorie
+List=Lista
+
+[v7.2]
+CloseWindow=Zamknij g≥Ûwne menu przed uruchomieniem projektu
+Restore=PrzywrÛÊ ustawienia domyúlne
+AddInfo=Dodaj informacje
+ClearAll=UsuÒ wszystko
+Document=Dokument
+
+[v7.1]
+Separate=Zapisz kaødy obraz jako osobny plik PDF
+SaveAs=Zapisz jako
+Image=Obraz
+Text=Tekst
+Font=Czcionka
+Color=Kolor
+
+[v7.0]
+SearchComplete=Dotar≥eú do koÒca dokumentu.
+Find=Znajdü
+FindNext=Znajdü nastÍpny
+FindWhat=Znajdü:
+MatchCase=UwzglÍdnij wielkoúÊ liter
+MatchWhole=Znajdü tylko ca≥e wyrazy
+ZoomIn=PowiÍksz
+ZoomOut=Pomniejsz
+Encrypt=Zaszyfruj PDF, ustaw uprawnienia uøytkownika
+Decrypt=Odszyfruj plik PDF chroniony has≥em
+Horizontal=Poziomo
+Vertical=Pionowo
+Diagonal=Po przekπtnej
+Direction=Kierunek tekstu:
+
+[v6.0]
+TXT=PDF do TXT
+TXTTip=WyodrÍbnij tekst z pliku PDF i zapisz jako TXT
+RTF=PDF do RTF
+DOC=DOC do PDF
+Units=Jednostki:
+Pixels=Piksele (px)
+Millimeters=Milimetry (mm)
+Inches=Cale (in)
+MarginLeft=Lewy margines:
+MarginTop=GÛrny margines:
+
+[v5.2]
+Graphics=Obrazy graficzne
+Word=Konwertuj DOC/DOCX do PDF oraz PDF do RTF
+
+[v5.1]
+PDFVersion=Wersja PDF
+Author=Autor
+Title=Tytu≥
+Subject=Temat
+Keywords=S≥owa kluczowe
+Creator=TwÛrca
+Producer=Producent
+Creation=Data wygenerowania:
+Modification=Data modyfikacji:
+InfoErr=Nie moøna odczytaÊ pliku.
+TotalPages=Liczba stron:
+Text=Tekst
+OriginalSize=Zachowaj oryginalny rozmiar
+Stretch=Rozciπgnij do rozmiaru strony
+Fit=Dopasuj do strony (zachowaj proporcje)
+CenterH=Wyúrodkuj w poziomie
+CenterV=Wyúrodkuj w pionie
+CustomSize=Dostosuj rozmiar
+CustomHint=WysokoúÊ x szerokoúÊ (w pikselach)
+NumFiles=Podziel w zaleønoúci od liczby plikÛw
+NumPages=Podziel w zaleønoúci od liczby stron
+ToExtract=Okreúl strony do wyodrÍbnienia.
+ExtractSelected=WyodrÍbnij wybrane strony 
+Example=Przyk≥ad: 1, 3, 5-9
+SavePages=Zapisz strony jako pliki
+ProcessPages=Okreúl strony do przetworzenia.
+Angle=Kπt (stopni):
+RotateAll=ObrÛÊ wszystkie strony
+RotateSelected=ObrÛÊ wybrane strony
+Right=W prawo:
+Bottom=W dÛ≥:
+CropAll=Przytnij wszystkie strony
+CropSelected=Przytnij wybrane strony
+WatermarkAll=Dodaj znak wodny do wszystkich stron
+WatermarkSelected=Zaznacz wybrane strony ze znakiem wodnym
+Behind=UmieúÊ znak wodny pod tekstem
+Margin=Margines X-Y:
+Position=Po≥oøenie:
+Image=Plik obrazu:
+ProcessAll=PrzetwÛrz wszystkie strony
+ProcessSelected=PrzetwÛrz wybrane strony
+Close=Zamknij
+Print=Drukuj
+FitWidth=Dostosuj do szerokoúci
+FitPage=Dostosuj do strony
+ActualSize=Rzeczywisty rozmiar
+FirstPage=Pierwsza strona
+PreviousPage=Poprzednia strona
+NextPage=NastÍpna strona
+LastPage=Ostatnia strona
+View=Widok
+OpenFile=OtwÛrz plik
+CloseFile=Zamknij plik
+PrintDocument=Drukuj dokument
+Printer=Drukarka:
+Scaling=Skalowanie:
+Rotate=ObrÛt:
+Copies=Kopie:
+Collate=Sortuj
+Print1=Drukuj wszystkie strony
+Print2=Drukuj bieøπcπ stronÍ
+Print3=Drukuj wybrane strony
+Scale1=Brak
+Scale2=Dopasuj do obszaru drukowania
+Scale3=Zmniejsz do obszaru drukowania
+Rotate1=Brak rotacji
+Rotate2=Automatycznie obrÛÊ i wyúrodkuj (w UZS)
+Rotate3=Automatycznie obrÛÊ i wyúrodkuj (wg UZS)
+Cancel=Anuluj
+SpecifyKey=ProszÍ podaÊ klucz licencyjny.
+Thank=DziÍkujemy za rejestracjÍ.
+NotValid=Klucz licencyjny jest nieprawid≥owy.
+Upgrade=Twoja subskrypcja na uaktualnienie wygas≥a.
+Expired=OKRES PR”BNY WYGAS£
+Day=Zosta≥ tylko 1 dzieÒ
+Days=Pozosta≥o dni:
+Continue=Kontynuuj
+RegName=Nazwa rejestracyjna:
+Key=Klucz licencyjny:
+Message=Ten program moøesz wyprÛbowaÊ bezp≥atnie. Masz 10 dni na ocenÍ produktu przed dokonaniem zakupu. Wersja prÛbna nie jest ograniczona i nie rÛøni siÍ w øaden sposÛb od pe≥nej wersji.
+BuyNow=Kup teraz
+Register=Zarejestruj
+Subscription=Subskrybuj
+Buy=Kup aktualizacje na kolejny rok
+Download=Pobierz poprzedniπ wersjÍ
+OnlyInPro=Ta funkcja jest dostÍpna tylko w wersji Professional.
+DownloadPro=Czy chcesz teraz pobraÊ?
+RotateLeft=ObrÛÊ w lewo
+RotateRight=ObrÛÊ w prawo
+Unregistered=Niezarejestrowana wersja prÛbna
+Registered=Wersja zarejestrowana
+Single=Licencja jednostanowiskowa
+Lifetime=Doøywotnie darmowe aktualizacje
+Year=Rok bezp≥atnych uaktualnieÒ
+
+[v5.0]
+Password=Wprowadü has≥o do pliku PDF:
+Files=Pliki
+AddDoc=Dodaj co najmniej jeden plik DOC/DOCX do listy.
+Free=Wersja Free
+Pro=Wersja Professional
+LicenseTip=Ta kopia przeznaczona jest tylko do uøytku osobistego (niekomercyjnego).
+LicenseTip2=Korzystanie z tego oprogramowania w organizacji lub do celÛw komercyjnych jest zabronione.
+Latest=Uøywasz najnowszej wersji.
+Themes=Motywy
+Watermark=Znak wodny
+RotatePages=ObrÛÊ 
+DeletePages=UsuÒ
+CropPages=Przytnij 
+SignPDF=Podpisz PDF
+Content=TreúÊ
+Documents=Dokumenty
+Pages=Strony
+Security=Ochrona
+WordPDF=Word do PDF
+WordPDFHint=Konwertuj dokumenty Word DOC/DOCX do formatu PDF
+NoPFX=Okreúl plik PFX.
+NoWatermark=ProszÍ okreúliÊ plik obrazu.
+TopLeft=Lewy gÛrny rÛg
+TopCenter=Wyúrodkuj u gÛry
+TopRight=Prawy gÛrny rÛg
+CenterLeft=årodek lewa strona
+Center=årodek
+CenterRight=årodek prawa strona
+BottomLeft=Lewy dolny rÛg
+BottomCenter=Wyúrodkuj na dole
+BottomRight=Prawy dolny rÛg
+RemoveImages=UsuÒ obrazy
+ExtractPages=WyodrÍbnij 
+SplitHint=Podziel plik PDF wed≥ug liczby plikÛw lub stron
+MergeHint=Scal pliki PDF w jeden plik
+RemoveHint=UsuÒ obrazy z PDF
+ExtractHint=WyodrÍbnij strony i zapisz je w oddzielnych plikach PDF
+DeleteHint=UsuÒ strony PDF
+RotateHint=ObrÛÊ strony PDF
+CropHint=Przytnij strony PDF
+Protect=ChroÒ PDF
+SignHint=Podpisz PDF podpisem cyfrowym
+MetadataHint=Dodaj, zaktualizuj lub usuÒ informacje PDF
+WatermarkHint=Dodaj znak wodny do stron PDF
+ImageError=Nie moøna wyodrÍbniÊ obrazÛw.
+Paste=Wklej
+New=UtwÛrz nowy
+
+[v4.0]
+ToolsHint=Przycinaj, obracaj lub usuwaj strony, aktualizuj metadane i podpisuj PDF
+ModifyPDF=Modyfikuj PDF
+Security=Zaszyfruj lub odszyfruj PDF, ustaw uprawnienia uøytkownika
+Add=Dodaj
+Remove=UsuÒ
+Up=W gÛrÍ
+Down=W dÛ≥
+
+[v3.3]
+License=Licencja dla jednego uøytkownika
+CheckforUpdate=Sprawdü aktualizacje
+CheckforUpdateonStartup=Sprawdü dostÍpnoúÊ aktualizacji podczas uruchamiania
+Info=Info
+Preview=Podglπd
+FirstPage=Idü do pierwszej strony
+LastPage=Idü do ostatniej strony
+NextPage=Idü do nastÍpnej strony
+PreviousPage=Idü do poprzedniej strony
+Size=Rozmiar strony:
+Landscape=Poziomo
+AllPages=WyodrÍbnij wszystkie strony
+SpecifiedPages=WyodrÍbnij okreúlone strony
+RemoveInfo=UsuÒ informacje
+WithTabs=Format z zak≥adkami
+Custom=Proces zdefiniowany przez uøytkownika
+Default=Domyúlny
+ImagesOnly=Tylko obrazy
+PlainText=Zwyk≥y tekst
+Open=OtwÛrz
+Process=Przetwarzanie
+TotalTime=Ca≥kowity czas:
+Error1=Nie moøna zaszyfrowaÊ pliku... B≥πd
+Success1=Plik zaszyfrowany pomyúlnie... OK
+Error2=Nie moøna odszyfrowaÊ pliku... B≥πd
+Success2=Plik zosta≥ pomyúlnie odszyfrowany... OK
+Saving=Zapis
+Output=Katalog wyjúciowy:
+Error=B≥πd
+Done=Gotowe
+SomeErrors=Wystπpi≥y b≥Ídy podczas przetwarzania plikÛw.
+Success=Pliki zosta≥y przetworzone pomyúlnie.
+ImageError=Podczas wyodrÍbniania obrazÛw wystπpi≥y b≥Ídy.
+ImageOk=Obrazy zosta≥y zapisane pomyúlnie.
+TextError=Nie moøna wyodrÍbniÊ tekstu.
+TextOk=Tekst zosta≥ pomyúlnie wyodrÍbniony.
+Adding=Dodaj
+PDFError=Nie moøna zapisaÊ pliku PDF.
+PDFOK=Plik zapisany pomyúlnie.
+MergeOK=Pliki zosta≥y pomyúlnie scalone.
+MergeError=Nie moøna scaliÊ plikÛw
+ImageError2=Podczas zapisywania obrazÛw wystπpi≥y b≥Ídy.
+PagesError=Podczas zapisywania stron wystπpi≥y b≥Ídy.
+PagesOk=Strony zosta≥y zapisane pomyúlnie.
+Processing=Przetwarzanie...
+ObjectsFound=Znalezione obiekty:
+Done2=Gotowe: øadna strona nie zosta≥a przekonwertowana.
+Done3=Gotowe: przekonwertowano 1 stronÍ.
+Pages2=Przekonwertowane strony.
+Conversion=Konwersja rozpoczÍ≥a siÍ...
+ImagesFound=Znaleziono obrazy
+PagesFound=Znalezione strony
+
+[v2.7]
+1=Tekst
+2=WyodrÍbnij tekst z PDF
+3=Obrazy
+4=WyodrÍbnij obrazy z PDF
+5=NarzÍdzia PDF (dodatki)
+6=Obracaj strony lub podpisuj PDF
+7=PDF do obrazu
+8=Przekonwertuj PDF na obraz
+9=Obraz do PDF
+10=Konwertuj dowolny obraz do formatu PDF
+11=PDF w programie Word
+12=Konwertuj PDF na Word RTF
+13=Podziel PDF
+14=WyodrÍbnij strony i zapisz jako oddzielne pliki PDF
+15=Scal pliki PDF
+16=Scal wiele plikÛw PDF
+17=Ochrona PDF
+18=Szyfruj i odszyfruj PDF
+19=Wyjdü
+20=Ustawienia
+21=Sprawdü dostÍpnoúÊ aktualizacji podczas uruchamiania
+22=Pomoc
+23=O programie...
+24=Plik
+25=Wersja
+26=Copyright
+27=Wszelkie prawa zastrzeøone.
+28=OK
+29=Tylko do uøytku osobistego
+30=Wersja biznesowa
+31=Nie znaleziono pliku pomocy, zainstaluj ponownie program.
+32=Nie moøna uruchomiÊ narzÍdzia, zainstaluj ponownie program.
+33=DostÍpna jest nowa wersja:
+34=Czy chcesz teraz odwiedziÊ stronÍ pobierania?
+35=èrÛd≥owe pliki PDF:
+36=Nazwa
+37=Rozmiar
+38=Strony
+39=åcieøka
+40=Dodaj pliki
+41=UsuÒ
+42=Edycja
+43=Zaznacz wszystko
+44=Zapisz do folderu:
+45=OtwÛrz folder po przetworzeniu
+46=Szyfruj
+47=Odszyfruj
+48=Akcja:
+49=Has≥o uøytkownika:
+50=Has≥o w≥aúciciela:
+51=Uprawnienia
+52=Druk
+53=Kopiuj
+54=ZmieÒ
+55=Wype≥nij pola
+56=DostÍp do kopii
+57=Montuj
+58=Drukuj w ca≥oúci
+59=Dodaj notatki
+60=Dodaj co najmniej jeden plik PDF do listy.
+61=Okreúl folder docelowy.
+62=KB
+63=WyodrÍbnij 
+64=Scal
+65=W gÛrÍ
+66=W dÛ≥
+67=Dodaj co najmniej dwa pliki PDF do listy.
+68=Konwertuj
+69=Format wyjúciowy:
+70=Podziel
+71=WyodrÍbnij strony:
+72=Przyk≥ad: 1,3, 5-9 (pozostaw puste dla wszystkich)
+73=PrzetwÛrz
+74=Podaj has≥o PFX.
+75=Podaj docelowy plik PDF.
+76=Podpisz
+77=Przekszta≥Ê
+78=Metadane
+79=Kadruj
+80=Zdefiniuj obszar ciÍcia
+81=Po lewej:
+82=Powyøej:
+83=SzerokoúÊ:
+84=WysokoúÊ:
+85=Autor:
+86=Tytu≥:
+87=Temat:
+88=TwÛrca:
+89=S≥owa kluczowe:
+90=Producent:
+91=ObrÛÊ:
+92=Normalizuj:
+93=Plik PFX:
+94=Has≥o PFX:
+95=Typ
+96=Zapisz do PDF:
+97=Obrazy ürÛd≥owe:
+98=Dopasuj do strony
+99=Dodaj przynajmniej jedno zdjÍcie do listy.
+100=OtwÛrz
+101=Zapisz
+102=Plik ürÛd≥owy PDF:
+103=Zachowaj uk≥ad tekstu
+104=Tekst:
+105=Podaj plik ürÛd≥owy PDF.
+106=Kopiuj
+107=Aktualizuj
+108=Zapisz jako RTF:
+109=Pojedynczy plik
+110=Pliki PDF
+111=Opcje
+112=Proces zainicjowany...
+113=Wczytywanie
+114=Dodaj zdjÍcia
+115=OtwÛrz plik po przetworzeniu
+116=Start
+117=Strony:
+118=WyczyúÊ
